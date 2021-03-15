@@ -1,3 +1,3 @@
 # goexample
 
-เป็นตัวอย่างโค้ดสำหรับทำบทความในเว็บไซต์ https://howto.prepareexam.icu/
+เป็นตัวอย่างโค้ดสำหรับทำบทความในเว็บไซต์ https://www.howtoclicks.com/
